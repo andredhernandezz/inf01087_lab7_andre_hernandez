@@ -1,4 +1,4 @@
-Laboratorio de GitHub
+Github de Laboratorio
 Nome: André Hernandez
 Curso: Ciência da Computação
 Discplina: INF 01087
