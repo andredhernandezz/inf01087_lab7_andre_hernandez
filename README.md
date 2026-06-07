@@ -1,4 +1,5 @@
-Github de Laboratorio
+<<<<<<< HEAD
+Lab7 de GitHub
 Nome: André Hernandez
 Curso: Ciência da Computação
 Discplina: INF 01087
