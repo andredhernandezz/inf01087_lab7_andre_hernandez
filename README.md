@@ -1,11 +1,11 @@
-<<<<<<< HEAD
-Lab7 de GitHub
+
+# Lab7 de GitHub
 Nome: André Hernandez
 Curso: Ciência da Computação
 Discplina: INF 01087
 
-Sobre mim:
+## Sobre mim:
 Estudante de Ciência da Computação pela UFRGS
 
-Projeto
+## Projeto
 Nova seção para o lab7
